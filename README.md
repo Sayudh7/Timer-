@@ -20,13 +20,9 @@ This script uses the **`winsound`** module, which is built into Python but **onl
 ## 🔧 How to Run
 
 1.  **Clone the repository** (or download the script file):
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-    ```
+
 2.  **Navigate to the project directory**:
-    ```bash
-    cd YOUR_REPOSITORY_NAME
-    ```
+   
 3.  **Run the script**:
     ```bash
     python timer.py
